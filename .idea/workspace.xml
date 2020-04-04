@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bfa54a7-6aef-4e24-9dac-49bd2057fc89" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZT68P9CzicSseqEQLQOxwDUWIW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BTArrayList">
+    <configuration name="BT16KhoiTaovaConTroThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThanTrieu.oop.BT16KhoiTaovaConTroThis" />
+      <module name="JavaCoBan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BTArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList.BTArrayList" />
+      <module name="JavaCoBan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bookstore.Main" />
+      <module name="JavaCoBan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bookstore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.Main" />
+      <module name="JavaCoBan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaiTap01.StudentTest" />
+      <module name="JavaCoBan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaiTap01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BTArrayList" />
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BT16KhoiTaovaConTroThis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bfa54a7-6aef-4e24-9dac-49bd2057fc89" name="Default Changelist" comment="" />
+      <created>1584850576459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584850576459</updated>
+      <workItem from="1585153161373" duration="112000" />
+      <workItem from="1585153307030" duration="576000" />
+      <workItem from="1585155097653" duration="12000" />
+      <workItem from="1585200529946" duration="480000" />
+      <workItem from="1585201059039" duration="1132000" />
+      <workItem from="1585204453472" duration="13374000" />
+      <workItem from="1585314340331" duration="57220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="677" height="245" key="GridCell.Tab.0.bottom" timestamp="1585140808929">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="677" height="245" key="GridCell.Tab.0.bottom/-1366.0.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1585140808929" />
+    <state width="611" height="187" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1585013839943" />
+    <state width="677" height="245" key="GridCell.Tab.0.center" timestamp="1585140808926">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="677" height="245" key="GridCell.Tab.0.center/-1366.0.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1585140808926" />
+    <state width="611" height="187" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1585013839943" />
+    <state width="677" height="245" key="GridCell.Tab.0.left" timestamp="1585140808923">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="677" height="245" key="GridCell.Tab.0.left/-1366.0.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1585140808923" />
+    <state width="611" height="187" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1585013839943" />
+    <state width="677" height="245" key="GridCell.Tab.0.right" timestamp="1585140808928">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="677" height="245" key="GridCell.Tab.0.right/-1366.0.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1585140808928" />
+    <state width="611" height="187" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1585013839943" />
+    <state x="621" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1585149476525">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="621" y="366" key="com.intellij.ide.util.TipDialog/-1366.0.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1585149476525" />
+    <state x="436" y="260" key="com.intellij.ide.util.TipDialog/0.0.1304.768@0.0.1304.768" timestamp="1585026606484" />
+  </component>
+</project>
