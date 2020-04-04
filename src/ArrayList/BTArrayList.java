@@ -26,6 +26,7 @@ public class BTArrayList {
         for (String s : list)
         {
             System.out.println(s);
+            System.out.println(s);
         }
 
     }
