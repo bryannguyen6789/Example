@@ -19,13 +19,12 @@ public class BTArrayList {
         String s1 = list.get(0);
         String s2 = list.get(list.size()-1);
 //        System.out.println(s2);
-        list.add(2,"Three");
-        list.set(3,"nine");
+//        list.add(2,"Three");
+//        list.set(3,"nine");
         list.remove("One");
 
         for (String s : list)
         {
-            System.out.println(s);
             System.out.println(s);
         }
 
