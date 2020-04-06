@@ -4,10 +4,14 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class OfficerManage {
+public class ManageOfficer {
     private List<Officer> officer;
 
-    public OfficerManage(){
+    ArrayList<Engineer> engineerList = new ArrayList<>();
+    ArrayList<Worker> workersList = new ArrayList<>();
+    ArrayList<Staff> staffList = new ArrayList<>();
+
+    public ManageOfficer(){
         this.officer = new ArrayList<>();
     }
 
@@ -15,12 +19,20 @@ public class OfficerManage {
         this.officer.add(officer);
     }
 
-    public List<Officer> seachOfficerByName(String name){
+    public List<Officer> searchOfficerByName(String name){
         return this.officer.stream().filter(o -> o.getName().contains(name)).collect(Collectors.toList());
     }
 
     public void showListInfoOfficer(){
-        this.officer.forEach(o -> System.out.println(o.toString()));
+        for (int i = 0; i < engineerList.size(); i++) {
+            engineerList.get(i).showInfo();
+        }
+        for (int i = 0; i < staffList.size(); i++) {
+            staffList.get(i).showInfo();
+        }
+        for (int i = 0; i < workersList.size(); i++) {
+            workersList.get(i).showInfo();
+        }
     }
 
 }

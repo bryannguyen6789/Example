@@ -1,4 +1,4 @@
-package BaiTap01;
+package BaiTap01QLSinhVien;
 
 public class Main {
 
